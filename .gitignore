@@ -2,3 +2,8 @@ test.py
 
 __pycache__/
 */__pycache__/
+*/data/
+*.pt
+*/*.pt
+
+package-lock.json
