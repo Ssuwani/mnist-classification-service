@@ -57,3 +57,13 @@ cd web-app/
 npm i
 npm start
 ```
+
+
+
+**Demo**
+
+![demo image](./images/demo.png)
+
+
+
+😒 without Docker
