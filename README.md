@@ -66,4 +66,15 @@ npm start
 
 
 
-😒 without Docker
+👍 with Docker
+
+```bash
+docker volume create vol
+
+docker run -v vol:/app ssuwani/mnist_train --epochs 1 --save-model --save-model-path /app/mnist.pt
+
+docker run -v vol:/app -p 5000:5000 ssuwani/mnist_app --model_path /app/mnist.pt
+
+docker run -p 8300:80 ssuwani/mnist_web-app
+```
+
