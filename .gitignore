@@ -5,5 +5,5 @@ __pycache__/
 */data/
 *.pt
 */*.pt
-
+data/
 package-lock.json
