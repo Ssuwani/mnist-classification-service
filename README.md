@@ -7,6 +7,13 @@
 - npm
 - anaconda(or virtualenv)
 
+#### Stacks
+
+- PyTorch
+- Flask
+- React
+- Docker
+
 #### Git clone
 
 ```bash
