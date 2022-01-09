@@ -1,6 +1,6 @@
 # MNIST Classification Service
 
-😒 without Docker
+1. 😒 without Docker
 
 #### Prerequirements
 
@@ -66,7 +66,7 @@ npm start
 
 
 
-👍 with Docker
+2. 👍 with Docker
 
 ```bash
 docker volume create vol
